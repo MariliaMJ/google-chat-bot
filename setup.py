@@ -26,7 +26,7 @@ setup(
         'Programming Language :: Python :: 3',
     ],
     extras_require={
-        'httplib2': ['httplib2==0.18.1'],
+        'httplib2': ['httplib2==0.19.0'],
         'python-crontab': ['python-crontab==2.5.1'],
     },
 )
